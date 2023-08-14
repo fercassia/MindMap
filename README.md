@@ -1,6 +1,6 @@
 # MindMap
 
-Respositório onde terá os mind maps criados por mim.
+Respositório onde terá os mind maps relacionado a testes, automação de testes, desenvolvimento e dentre outros.
 
 Mind maps são utilizados para organizar informações de forma clara e resumida, agrupando informações relacionadas.
 Os Mind maps são organizados por um tema central e topicos, necesses tópicos há subtopicos.
